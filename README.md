@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Alex-DevGamer
-- 👀 Estou interessado em..
-- 🌱 Atualmente estou atualizand
-- 💞️ Estou procurando colaborar e...
-- 📫 How to reach me ...
+- 👋 Ola! eu sou @Alex-DevGamer
+- 👀 Estou Aprendendo Python, JavaScript,HTML & CSS
+- 👌 Desejo montar uma comunidade sobre Progamação & Games.
+- 💞️ Estou procurando colaborar em ports de jogos ou ferramentas pra consoles e no desenvolvimento de Games.
+- 📫 alexsossantos3077@gmail.com
 
-<!---
-Alex-DevGamer/Alex-DevGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
